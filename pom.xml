@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>timplus-jce-providers</artifactId>    
     <name>TIM+ JCE Providers</name>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.1.0</version>
     <description>TIM+ JCE provicers to support PKCS11 tokens</description>
     <inceptionYear>2020</inceptionYear>
     <url>https://github.com/DirectStandards/timplus-jce-providers</url>    
